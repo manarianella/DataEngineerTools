@@ -1,0 +1,2 @@
+Bonjour, je découvre Git.
+Ceci est mon premier exercice de Data Engineering.
